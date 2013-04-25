@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:rim="http://www.blackberry.com/ns/widgets"
+        version="3.0.0.0" id="combatbablu" xml:lang="en">
+  <author href="http://bkrockx.blogspot.in/"
+          rim:copyright="Copyright 2013 Bablu">bablu</author>
+  <name>combat evolved</name>
+  <icon src="icon.png"/>
+  <content src="index.html"/>
+  <feature id="blackberry.identity" required="true" version="1.0.0.0"/>
+  <feature id="blackberry.app" />
+  <param name="orientation" value="portrait" />
+  </feature>
+</widget>
